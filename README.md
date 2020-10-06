@@ -1,4 +1,4 @@
-# Ceasar-Cypher
+# Caesar-Cypher
 
 This is a simple Caesar cypher implemented using C#
 
